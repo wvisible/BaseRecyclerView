@@ -1,0 +1,2 @@
+# BaseRecyclerView
+一个关于RecyclerView的adapter的封装
